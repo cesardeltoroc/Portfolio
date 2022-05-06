@@ -1,0 +1,18 @@
+.bio{
+  font-size: 2em;
+  font-family: Jazz LET, fantasy;
+  color: black;
+  text-decoration: wavy;
+  font-weight: bold;
+  line-height: 1.89em;
+}
+#bio{
+  color: black;
+  font-size: 4em;
+  text-decoration: underline;
+}
+#selfie{
+  height: 550px;
+  width: 550px;
+}
+
