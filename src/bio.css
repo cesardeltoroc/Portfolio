@@ -1,10 +1,9 @@
 .bio{
-  font-size: 2em;
+  font-size: 2rem;
   font-family: Jazz LET, fantasy;
   color: black;
-  text-decoration: wavy;
   font-weight: bold;
-  line-height: 1.89em;
+  line-height: 1.4em;
 }
 #bio{
   color: black;
