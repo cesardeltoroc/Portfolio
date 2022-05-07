@@ -1,12 +1,13 @@
 .bio{
   font-size: 2rem;
-  font-family: Jazz LET, fantasy;
+  font-family: 'Avenir Next Condensed Medium", Calibri, "Gill Sans", sans-serif';
   color: black;
-  font-weight: bold;
+  font: weight 3px;
   line-height: 1.4em;
 }
 #bio{
   color: black;
+  font-family: 'Staatliches', cursive;
   font-size: 4em;
   text-decoration: underline;
 }

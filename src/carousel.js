@@ -59,9 +59,9 @@ class carousel extends react.Component {
                     <h2><u>Languages</u></h2>
                     <p>{project.languages}</p>
                     <h2><u>Description</u></h2>
-                    <p style={{ fontFamily: 'Jazz LET, fantasy', fontSize: 'em'  }}>{project.description}</p>
+                    <p style={{ fontFamily: 'Avenir Next Condensed Medium", Calibri, "Gill Sans", sans-serif', fontSize: 'em'  }}>{project.description}</p>
                     <h2><u>Third Party</u></h2>
-                    <p style={{ fontFamily: 'Jazz LET, fantasy', fontSize: '1em' }}>{project.utilites}</p>
+                    <p style={{ fontFamily: 'Avenir Next Condensed Medium", Calibri, "Gill Sans", sans-serif', fontSize: '1em' }}>{project.utilites}</p>
                   </div>
                 </div>
               </div>

@@ -3,6 +3,7 @@ import './bio.css'
 import { Container, Row, Col } from 'react-bootstrap'
 import selfie from './selfie.jpeg'
 
+
 class Bio extends React.Component {
   render() {
     return (
