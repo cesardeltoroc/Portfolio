@@ -14,14 +14,14 @@ class carousel extends react.Component {
           description: `M3rcado is a web 3.0 inspired application that simulates a decentralized application running on blockchain technology. It also simulates the use of ethereum gas to facilitate e-commerce transactions of Non-Fungible Tokens (NFTs). NFTs are unique cryptographic tokens that exist on a blockchain and cannot be replicated.
           NFTs represent real-world items like artwork and real estate.`,
           utilites: `Heroku, Netlifty, Node.js, MongoDB, NPM, GIT, GitHub, Third Party API's, Multer, MaterialUI, React-Bootstrap, React Icons, Auth0, React Sketch Canvas, ThunderClient`,
-          languages: 'Javascript, TS, HTML, CSS',
+          languages: 'Javascript, TypeScript, HTML, CSS',
           image: [M3rcado],
           url: 'https://m3rcado.netlify.app'
         },
         {
           name: 'City Explorer',
           description: 'An application built with React and deployed to Heroku and netlify for hosting services.',
-          languages: 'Javascript, HTML5, CSS,',
+          languages: 'Javascript, HTML5, CSS',
           utilites: 'Heroku, Netlifty, Node.js, MongoDB, NPM, GIT, GitHub, React-Bootstrap',
           image: [City],
           url: 'https://cesar-city-explorer.netlify.app'
@@ -51,7 +51,7 @@ class carousel extends react.Component {
                 </div>
                 <div class="mt-4 flex justify-between">
                   <div>
-                    <h3 class="text-sm text-gray-700">
+                    <h3 class="text-sm text-gray-300">
                       <a href={project.url}>
                         <span aria-hidden="true" class="absolute inset-0"></span>
                       </a>

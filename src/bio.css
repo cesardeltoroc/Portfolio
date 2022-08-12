@@ -1,18 +1,23 @@
 .bio{
-  font-size: 2rem;
-  font-family: 'Avenir Next Condensed Medium", Calibri, "Gill Sans", sans-serif';
-  color: black;
-  font: weight 3px;
-  line-height: 1.4em;
-}
-#bio{
-  color: black;
+  font-size: 2.5rem;
+  text-align: left;
   font-family: 'Staatliches', cursive;
-  font-size: 4em;
-  text-decoration: underline;
+  /* line-height: 1.24em; */
 }
 #selfie{
-  height: 550px;
-  width: 550px;
+  width: 500px;
+  align-items: center;
+}
+#name{
+  font-size: 4.5rem;
+  text-align: left;
+}
+#name:hover{
+  font-size: 6rem;
+  cursor: pointer;
+}
+#hi{
+  font-size: 5rem;
+  text-align: left;
 }
 

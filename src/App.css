@@ -8,7 +8,6 @@
     border-radius: 40px;
     width: 80%;
     background-color: rgb(37, 37, 37);
-    color: white;
     margin: auto;
   }
 
@@ -70,8 +69,4 @@ Form{
 }
 #col{
   border-radius: 20px;
-}
-#connect{
-  font-size: 3rem;
-  color: whitesmoke;
 }

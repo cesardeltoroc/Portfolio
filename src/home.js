@@ -11,7 +11,7 @@ class home extends React.Component {
           <div className="welcomeDiv">
             <div>
               <div className='name-animation'>
-                <h1 className="typewriter">Cesar  Deltoro  Jr</h1>
+                <h1 className="typewriter">Jr</h1>
               </div>
             </div>
           </div>

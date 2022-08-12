@@ -5,7 +5,7 @@ import ResponsiveAppBar from './footer';
 import Home from './home';
 import Carousel from './carousel';
 import Bio from './Bio'
-import Contact from './Contact';
+// import Contact from './Contact';
 
 class App extends React.Component {
   render() {
@@ -14,7 +14,7 @@ class App extends React.Component {
         <Home />
         <Bio/>
         <Carousel />
-        <Contact />
+        {/* <Contact /> */}
         <ResponsiveAppBar />
       </div>
     );
